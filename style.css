@@ -1,0 +1,11 @@
+
+.main{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.pic{
+    width: 70%;
+}
